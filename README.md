@@ -27,15 +27,21 @@ IPAddress getBroadcastAddress(IPAddress ip, IPAddress subnet) {
 That broadcast IP is stored in outIp and will be used as the target for OSC messages, allowing triggered effects to be synced between all headsets on the specified network.
 
 ### Builds
-- See [ESP32 Code]("https://github.com/reedbryan/mixed-reality-mural\Assets\BroadcastingScripts\board-with-broadcastIP.ino") (uploaded via arduino IDE)
-- See [Python Code]("https://github.com/reedbryan/mixed-reality-mural\Assets\BroadcastingScripts\board-with-broadcastIP.ino") (can be run from the terminal, for debugging purposes)
+- See [ESP32 Code]("https://github.com/reedbryan/mixed-reality-mural\Assets\ReadmeMedia\board-with-broadcastIP.ino") (uploaded via arduino IDE)
+- See [Python Code]("https://github.com/reedbryan/mixed-reality-mural\Assets\ReadmeMedia\osc_keyboard.py") (can be run from the terminal, for debugging purposes)
 
 ## Unity Side
+The Unity project running inside the headsets (this repo) 
 
 ### Scene Specific Object
 
 ## Assets
 
-### Pollinator
-### Cedar Tree
 ### Totom Pole
+[](https://github.com/reedbryan/mixed-reality-mural\Assets\ReadmeMedia\TotemSC.png)
+
+### Pollinator
+[](https://github.com/reedbryan/mixed-reality-mural\Assets\ReadmeMedia\BeeSC2.png)
+
+### Cedar Tree
+[](https://github.com/reedbryan/mixed-reality-mural\Assets\ReadmeMedia\TreeSC.png)
