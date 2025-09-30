@@ -31,12 +31,9 @@ That broadcast IP is stored in outIp and will be used as the target for OSC mess
 - See [Python Code](https://github.com/reedbryan/mixed-reality-mural/tree/master/Assets/ReadmeMedia/osc_keyboard.py) (can be run from the terminal, for debugging purposes)
 
 ## Unity Side
-The Unity project running inside the headsets (this repo) 
+The Unity project running inside the headsets (this repo) displays a variaty of mixed reality assets, driven by the ESP32 touchpins. Each asset can comeplemented by its own particle effect and animations.
 
-### Scene Specific Object
-
-## Assets
-
+## Current Assets
 | Totem Pole | Pollinator | Cedar Tree |
 |:----------:|:----------:|:----------:|
 | ![Totem Pole](Assets/ReadmeMedia/totemSC.png) | ![Pollinator](Assets/ReadmeMedia/BeeSC2.png) | ![Cedar Tree](Assets/ReadmeMedia/TreeSC.png) |
